@@ -45,6 +45,11 @@
       "path": "docs/pdd-jactiv-767-no-po-invoice-chaser.md",
       "url": "https://github.com/irina-capatina-org/jactiv-767-no-po-invoice-chaser/blob/analysis-jactiv-767/docs/pdd-jactiv-767-no-po-invoice-chaser.md",
       "updatedAt": "2026-09-23T11:45:51Z"
+    },
+    "sdd": {
+      "path": "docs/sdd-jactiv-767-no-po-invoice-chaser.md",
+      "url": "https://github.com/irina-capatina-org/jactiv-767-no-po-invoice-chaser/blob/develop/docs/sdd-jactiv-767-no-po-invoice-chaser.md",
+      "updatedAt": "2026-09-23T11:49:58Z"
     }
   }
 }
