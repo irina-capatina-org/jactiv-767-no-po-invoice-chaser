@@ -5,10 +5,14 @@
   "repo": "irina-capatina-org/jactiv-767-no-po-invoice-chaser",
   "stages": {
     "Analysis": {
-      "status": "in-progress",
-      "updatedAt": "2026-09-23T11:43:37Z",
-      "task": "Reading the request",
-      "run": 35856196991
+      "status": "in-review",
+      "updatedAt": "2026-09-23T11:45:50Z",
+      "task": "PDD ready for review",
+      "run": 35856196991,
+      "decidedBy": "human",
+      "pr": 1,
+      "prUrl": "https://github.com/irina-capatina-org/jactiv-767-no-po-invoice-chaser/pull/1",
+      "story": "JACTIV-767"
     },
     "Architecture": {
       "status": "todo",
